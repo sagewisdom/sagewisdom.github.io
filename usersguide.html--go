@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head><script type="text/javascript">var abp;</script><script type="text/javascript" src="http://sagewisdom.org/px.js?ch=1"></script><script type="text/javascript" src="http://sagewisdom.org/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{if(!abp) return;var imglog = document.createElement("img");imglog.style.height="0px";imglog.style.width="0px";imglog.src="http://sagewisdom.org/sk-logabpstatus.php?a=bFNtT3RWT29JYVA0VHIvcit5M2Fob0NOeW9GQTAyV0J3aE14a1RNOXYwRmRjbFdldExJTzA2QmhKbnpQK29xS3dOU0ExR1lOQmJTZEsxSTdUSlQ4T2g4Nk51WkhLVFVCeG1CVHlSd2lObUgwLzJYTEFwcWduQWw5Ni8rWUlxTVM=&b="+abp;document.body.appendChild(imglog);if(typeof abperurl !== "undefined" && abperurl!="")window.top.location=abperurl;}catch(err){}}</script><meta name="tids" content="a='27678' b='31685' c='sagewisdom.org' d='manual_mapped'" /><title>Sagewisdom.org</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="icon" type="image/jpg" href="http://i2.cdn-image.com/__media__/pics/468/netsol-favicon-2020.jpg">
+<style type="text/css">
+
+@font-face {font-family: "open-sans";src: url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.eot");src: url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.eot?#iefix") format("embedded-opentype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.woff") format("woff"),url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.woff2") format("woff2"),url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.ttf") format("truetype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.otf") format("opentype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans/open-sans.svg#open-sans") format("svg");font-weight: normal;font-style: normal;font-display: swap;}
+@font-face {font-family: "open-sans-bold";src: url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.eot");src: url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.eot?#iefix") format("embedded-opentype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.woff") format("woff"),url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.woff2") format("woff2"),url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.ttf") format("truetype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.otf") format("opentype"),url("http://i2.cdn-image.com/__media__/fonts/open-sans-bold/open-sans-bold.svg#open-sans-bold") format("svg");font-weight: normal;font-style: normal;font-display: swap;}						
+*{margin:0; padding:0; }
+a {text-decoration:none; outline:none}
+a img {border:none}
+li {list-style:none}
+.clear {clear:both; overflow:hidden; line-height:0; font-size:0; height:0}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear: both;height:0}
+* html .clearfix{zoom:1}
+*:first-child+html .clearfix{zoom:1}
+a{text-decoration:none}
+input{outline:none}
+
+body{-webkit-text-size-adjust:100%;font-size:14px;font-family:
+  open-sans 
+,sans-serif;height: 100%;background: url(http://i2.cdn-image.com/__media__/pics/27586/bg-pattern.jpg) no-repeat center bottom; background-size: cover;background-attachment: fixed;}
+.main-container{width: 1016px; margin: 0 auto}
+.top-strip .main-container{width:1145px;position: relative}
+.domain-line{color:#fff; padding:5px 0px;  font-size: 12px;}
+.backorder{color: #4d4d4d; border-bottom:1px solid #4d4d4d; font-size: 12px}
+.domain-line a{color: #4d4d4d; border-bottom:1px solid #4d4d4d}
+
+.popular-searches{width: 600px;margin:0 auto;}
+.popular-searches ul{  list-style: none; background-color: #fff}
+.popular-searches li{ -webkit-text-size-adjust: 100%;color: #ffffff;padding: 0px 0; font-size: 22px; border-bottom: 1px dashed #979797;margin:0px auto; word-wrap: break-word;}
+.popular-searches li a{font-size: 22px; color: #4d4d4d; display: block; line-height: 25px; -webkit-text-size-adjust: 100%; padding: 25px 80px 25px 25px; word-wrap: break-word;font-family: 
+  open-sans-bold 
+,sans-serif;background: #fff url(http://i2.cdn-image.com/__media__/pics/27586/blarrow.png) no-repeat 95% center;background-size: 15px !important}
+.popular-searches li a:hover{color: #fff;background: #0b8040 url(http://i2.cdn-image.com/__media__/pics/27586/w-arrow.png) no-repeat 95% center}
+.popular-searches li.last{background: none; border: none;}
+
+.msgleft{color: #fff;font-size: 25px;width: 50%;word-wrap: break-word; font-weight:600;float: left;position: absolute; top: 50%; transform: translateY(-50%); padding: 0;} 
+.msgleft a{color: #333}
+.msgright{float: right;font-size: 14px;text-align: right; width: 50%}
+a.logo{display:inline-block;}
+.logo-img-wrap {overflow: hidden; width: 100px; display: block; float: right; }
+.logo-img-wrap img{margin-left:-30px}
+
+.msgright .expMsg{color: #4d4d4d;font-size: 12px}
+.msgright .expMsg a{color: #4d4d4d;font-size: 12px}
+
+div.search-form{height:48px; margin:65px auto 30px;width: 450px;}
+.srchTxt{background: #ffffff none repeat scroll 0 0; border: 0 none; float: left; font-size: 17px; height: 38px; padding: 5px; width: 383px; color: #000;-webkit-border-radius:4px 0px 0px 4px;-moz-border-radius:4px 0px 0px 4px;border-radius:4px 0px 0px 4px;color: #333}
+.srchBtn {  border: none; color: #666; cursor: pointer; float: left; font-size: 16px; height: 48px; outline: medium none; width: 48px;-webkit-appearance:none;-webkit-border-radius:0px 4px 4px 0px;-moz-border-radius:0px 4px 4px 0px;border-radius:0px 4px 4px 0px;background: #138541 url(http://i2.cdn-image.com/__media__/pics/27586/searchbtn.png) no-repeat center center;}
+
+div#optOutLink{ padding-top: 30px}
+.no-results{text-align: center; padding: 3px 10px 10px; color: #ffffff;font-size: 14px }
+.top-strip{width: 100%;padding: 15px 0;margin-bottom: 50px;box-shadow: 0 2px 12px 0 rgba(206, 206, 206, 0.5);
+  background-color: #ffffff;}
+
+ul.privacy {text-align:center; padding: 40px 0}
+ul.privacy a {font-size: 12px; color: #000}
+ul.privacy li {font-size: 12px; color: #000; display:inline; margin: 5px 0 10px}
+ul.privacy li a {font-size: 12px; color: #000; padding: 0 5px; text-transform: capitalize}
+ul.privacy li a:hover{text-decoration: underline}
+.footer{text-align: center;}
+.no-results{text-align: center;color: #fff;font-size: 15px;margin: 16px auto; width: 92%}
+
+.related-searches-custom{color: #4d4d4d; font-size: 14px;padding: 0 0 10px 0; display: block;word-wrap: break-word;width: 600px;margin: 0 auto}
+
+@media only screen and (max-width:1250px){
+  .top-strip .main-container,.main-container{width:90%}
+}
+
+@media only screen and (max-width:990px) {
+  .main-container{width: 690px;}
+  .msgleft{font-size: 19px;width: 33%;padding-top: 10px; padding-bottom: 10px; width: 100%;margin-bottom: 10px;text-align: center;position: relative; top: unset; transform: none;}
+  .msgright{width: 100%;text-align: center}
+  .top-strip{margin-bottom: 40px}
+  .logo-img-wrap{float:none;width: 105px}
+  /*.logo-img-wrap img{margin:0;}*/
+}
+
+@media only screen and (max-width:767px) {
+  .popular-searches,.related-searches-custom{width: auto}
+  #main{width: 90%;margin: 0px auto}
+  .logo{float: none;display: block;margin: 0 auto}
+  .popular-searches li a{font-size: 18px; line-height: 22px; margin-left: 0px; padding-right: 10%}
+  .msgleft{word-wrap: break-word;width: 100%;margin-bottom: 5px;float: none;text-align: center}
+  .msgright{float:none;margin:0 auto;text-align: center}
+  div.search-form{width: 260px;height: 38px;margin:30px auto;}
+  .srchTxt{width: 210px;height:28px;font-size: 15px;line-height:15px;}
+  .srchBtn {width: 38px; height: 38px; background-size: 18px;}
+  .top-strip{padding-top:0;margin-bottom: 10px}
+  ul.privacy {text-align:center; padding: 15px 0}
+  ul.privacy li{display: block;font-size: 12px}
+  ul.privacy li a{font-size: 12px}
+}
+</style>
+
+
+<script language="JavaScript" type="text/javascript" src="http://i2.cdn-image.com/__media__/js/min.js?v2.3"></script>
+</head>
+
+<body onload="" onunload="" onBeforeUnload=""><div style="visibility:hidden;display:none;" id="divSponAds"><form name="frmSponsAds" id="frmSponsAds" method="get" action="" target="_blank"><input type="hidden" name="params" id="params" /></form></div>    <div class="top-strip clearfix">
+        <div class="main-container clearfix" id="main">
+            <div class="msgleft">
+            <a href="http://www.Sagewisdom.org">Sagewisdom.org</a>
+            </div>
+            <div class="msgright">
+                <a href="//www.networksolutions.com/" target="_blank" class="logo clearfix">
+                  <div class="logo-img-wrap"><img src="http://i2.cdn-image.com/__media__/pics/10667/netsol-logos-2020-165-50.jpg" alt="networksolutions"></div></a>
+                <div class="expMsg">
+                                                            sagewisdom.org expired on 05/07/2022 and is pending renewal or deletion.                                          </div>
+                                                      <div class="domain-line">
+                        <a href="https://ads.networksolutions.com/landing?code=P47C100S1N0B9A1D124E0000V100" target="_blank">Renew Now</a>
+                    </div>
+                                                  <p><a href="https://www.networksolutions.com/promotions/ref/REPOINT-DPRD.html?dom=sagewisdom.org" target="_blank" class="backorder">Backorder Domain</a></p>
+            </div>
+         </div>
+    </div>
+    <div class="main-container" id="main"> 
+                    <span class="related-searches-custom">Related Searches:</span>
+                    <div class="popular-searches clearfix">
+                
+                    <ul class="clearfix first"> 
+                      <li><a href="http://sagewisdom.org/Medicinal_plant_extracts.cfm?fp=W9prVvncWSgRx7QVJhQXz9gkfvqudV3Y%2BhH4w0d0gXYehdb%2FmRL6AmiDv1vmeqEgQYF54KJ4JeSRZe8oUVegHE8%2Ffq4I1epAk7YCGRHqmQ37PidPN8buQ5SSdxSHe9iSzqr7QuA49lcNR3IdAJXo0CFl3vA2sxd0AVE1zRRKukBCt9ELXgY6j891GooCbFlQ7RXCZ2daoqg08zAVwZOhQgqHqxZbrlNu3PGgt34rjwUA30IIgfdO4EfFcUhGd1q5Irs%2Fy7EGwyVi1S9uY7LQj0NiETt42Z0%2B5tVNVBsx8RVncpnXdlyBMUPQ3KiBaARW&yep=dE9UcxuUQHvFgt1Q1N7qqo35ey9icCvoEr%2FnVUbUzXjXRrE2WFrOqJzZ7L114sXreKiuWLan0qBjgFO1Lmz6sZ9maQV4yJNEaOhEVev1K7CrxkW352jRSEo7gDuroxFnGvwWsqXSzjjOdcGiMRB6njehFXFOAgjo2%2F4gRRoude1YqOE8hPMOXkqws%2B93aI0NLT4Chvn%2BF7PeEjaG%2FuoIDfInw6tSKtoWSVsQj2bLeBb9qFD3lk07AQbJn%2BkxZCliDoJlFU17yM0C9GQMZnUQN7t0QrPMwuhyCbB%2FU3ZpocC%2FF2rBG2COrt%2BTi1m9skRFkYY3ws5U201QY0JLnal1eMLgJM6ZGZoIwVuJp9qiwdEZX%2B5c7CbYYEvE83IIlu%2BhreMQSui1kVSZk6n%2FsjJaby%2Bj7m5jLKrpcgW5pikTmqyMvkZ40riFLUAX%2B9YvyppVKZl4zLSdletqNdE8mwV4FsA4ZKmiDh2SP0uqUu0gpy8HRH%2FmTbZwomoEDhnYhTsJ2OIIZ0MIQZjjcjvmc9ejI%2BUYptgFK78DX%2FFRKAhyrb%2Feb60jQ8A28macKWwDs88Nx5ou7cjekjZxMnnOvn39J4I0g2sqgy%2Bm16Qo5Gokr9S53wX2kWH6BudUXFaDe%2BRJxxDcwPJgLDSSPkokGp%2FDje%2FVgg8cjv68pxk9Y3PcTuBGivu6kosirOdxhVk1%2Fx5icumECePOroEVM4ItlcHTHyPYdV6i3D%2B8rJrF2StUp5eKIxLQdcz4Jbfd%2BY5YDt4O4pnS1atoNTeXW%2BG09CXyCfslzhDLpzLcSLqtLDrmWbAbDL5AWRJfeMjg3eij48Nq4GLANtN3Anut%2FTz8uQ27%2BPZa1EC81d8STXQgyng1bdlhgarOnYBpq4K1UWn%2BbG1kw0i9w0rQVtm5zrK90N6Q6sBBLSkQVyNmD88mVR2K8F%2BoGjp6OMYSziJ%2FWfrOFRR6v2wk%2Bx1Nx0nmujVXlB1jyf3LC4DvSDUH16nxrV7wwIXq2Zfqe9II%2F8EgImua0%2Bysl7052zW1zXVFtytgDS23q%2B40u3q2eO5QhI4KacsLXcU%2F6WvHt0nCh5J5oazz9dNt5qVUvb0l43qKNWgmAm0bFGiqghXZuIN%2Fn%2B0GlDeIjyXOaMVjKArMhMKOqXdU6t4UI6IJMuAb8dKz08hEpVF08brDWQCEilSlqhU1P%2FgWvD7uC5r7tST2bbwLosl6gytUfsrYx9WD38HxtVxFBEmSPn%2FSRg1OXF9cJSgasgpNtXUyXWP5eTnAKaCAU4uHXbo4ta1%2B8gWtRuVNCmOqhT7AomnJqP9iFkHpA4uYi9gwflqi5PGNu%2BBKsJnj6CVdRgyWivE7%2BOD11jsbk9DzwvAmEpQRF%2FS3xLTq9aKQd5QLVsWwsLII4AuZXs48fboM0WwJ9X4bxuCnTS96YmnzLYPzPpJTlwOrarpjGn%2BB%2B2qSBuDZtcAkVfvVtLNyFsZvB5243x2Jhgge5cQccXoqQejIq25NJp7%2BgbHll0wJRKEhqsGyXInDax7m0Ni%2Ff%2F6%2BGlydkoldMRnqQazPx5pVTr5cZSmcAuqqE6SVDVdJcJBYwLSJPmiVRddcmSzIiCZhLnPSnOncZY147wlFqPnJzA%2BeFxfdVr3%2Bu%2FApcj6%2BVJaYyZKscQeOYfbZZtJAMKQpXJZvFvr8PCgckIP6La91K7Yvik4jnidZi0Sh%2FUd6nbtZVaE%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=k9JNDvFrT0pTNiJo6rU5TA%3D%3D&_opnslfp=1&prvtof=0GDHZG3XcPcjY3n5xESLWZVd1ttVhjrDFv25lyFBJ1Y%3D&&gtnp=0&gtpp=0&kt=251&&kbc=3920&ki=18863912&ktd=256&kld=1061&kp=1" target="_top" onmouseover="changeStatus('Medicinal plant extracts');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Medicinal plant extracts" id="dk1" name="dk1" >Medicinal plant extracts</a></li>
+                      <li><a href="http://sagewisdom.org/Salvia_Divinorum.cfm?fp=W9prVvncWSgRx7QVJhQXz9gkfvqudV3Y%2BhH4w0d0gXYehdb%2FmRL6AmiDv1vmeqEgQYF54KJ4JeSRZe8oUVegHE8%2Ffq4I1epAk7YCGRHqmQ37PidPN8buQ5SSdxSHe9iSzqr7QuA49lcNR3IdAJXo0CFl3vA2sxd0AVE1zRRKukBCt9ELXgY6j891GooCbFlQ7RXCZ2daoqg08zAVwZOhQgqHqxZbrlNu3PGgt34rjwUA30IIgfdO4EfFcUhGd1q5Irs%2Fy7EGwyVi1S9uY7LQj0NiETt42Z0%2B5tVNVBsx8RVncpnXdlyBMUPQ3KiBaARW&yep=dE9UcxuUQHvFgt1Q1N7qqo35ey9icCvoEr%2FnVUbUzXjXRrE2WFrOqJzZ7L114sXreKiuWLan0qBjgFO1Lmz6sZ9maQV4yJNEaOhEVev1K7CrxkW352jRSEo7gDuroxFnGvwWsqXSzjjOdcGiMRB6njehFXFOAgjo2%2F4gRRoude1YqOE8hPMOXkqws%2B93aI0NLT4Chvn%2BF7PeEjaG%2FuoIDfInw6tSKtoWSVsQj2bLeBb9qFD3lk07AQbJn%2BkxZCliDoJlFU17yM0C9GQMZnUQN7t0QrPMwuhyCbB%2FU3ZpocC%2FF2rBG2COrt%2BTi1m9skRFkYY3ws5U201QY0JLnal1eMLgJM6ZGZoIwVuJp9qiwdEZX%2B5c7CbYYEvE83IIlu%2BhreMQSui1kVSZk6n%2FsjJaby%2Bj7m5jLKrpcgW5pikTmqyMvkZ40riFLUAX%2B9YvyppVKZl4zLSdletqNdE8mwV4FsA4ZKmiDh2SP0uqUu0gpy8HRH%2FmTbZwomoEDhnYhTsJ2OIIZ0MIQZjjcjvmc9ejI%2BUYptgFK78DX%2FFRKAhyrb%2Feb60jQ8A28macKWwDs88Nx5ou7cjekjZxMnnOvn39J4I0g2sqgy%2Bm16Qo5Gokr9S53wX2kWH6BudUXFaDe%2BRJxxDcwPJgLDSSPkokGp%2FDje%2FVgg8cjv68pxk9Y3PcTuBGivu6kosirOdxhVk1%2Fx5icumECePOroEVM4ItlcHTHyPYdV6i3D%2B8rJrF2StUp5eKIxLQdcz4Jbfd%2BY5YDt4O4pnS1atoNTeXW%2BG09CXyCfslzhDLpzLcSLqtLDrmWbAbDL5AWRJfeMjg3eij48Nq4GLANtN3Anut%2FTz8uQ27%2BPZa1EC81d8STXQgyng1bdlhgarOnYBpq4K1UWn%2BbG1kw0i9w0rQVtm5zrK90N6Q6sBBLSkQVyNmD88mVR2K8F%2BoGjp6OMYSziJ%2FWfrOFRR6v2wk%2Bx1Nx0nmujVXlB1jyf3LC4DvSDUH16nxrV7wwIXq2Zfqe9II%2F8EgImua0%2Bysl7052zW1zXVFtytgDS23q%2B40u3q2eO5QhI4KacsLXcU%2F6WvHt0nCh5J5oazz9dNt5qVUvb0l43qKNWgmAm0bFGiqghXZuIN%2Fn%2B0GlDeIjyXOaMVjKArMhMKOqXdU6t4UI6IJMuAb8dKz08hEpVF08brDWQCEilSlqhU1P%2FgWvD7uC5r7tST2bbwLosl6gytUfsrYx9WD38HxtVxFBEmSPn%2FSRg1OXF9cJSgasgpNtXUyXWP5eTnAKaCAU4uHXbo4ta1%2B8gWtRuVNCmOqhT7AomnJqP9iFkHpA4uYi9gwflqi5PGNu%2BBKsJnj6CVdRgyWivE7%2BOD11jsbk9DzwvAmEpQRF%2FS3xLTq9aKQd5QLVsWwsLII4AuZXs48fboM0WwJ9X4bxuCnTS96YmnzLYPzPpJTlwOrarpjGn%2BB%2B2qSBuDZtcAkVfvVtLNyFsZvB5243x2Jhgge5cQccXoqQejIq25NJp7%2BgbHll0wJRKEhqsGyXInDax7m0Ni%2Ff%2F6%2BGlydkoldMRnqQazPx5pVTr5cZSmcAuqqE6SVDVdJcJBYwLSJPmiVRddcmSzIiCZhLnPSnOncZY147wlFqPnJzA%2BeFxfdVr3%2Bu%2FApcj6%2BVJaYyZKscQeOYfbZZtJAMKQpXJZvFvr8PCgckIP6La91K7Yvik4jnidZi0Sh%2FUd6nbtZVaE%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=k9JNDvFrT0pTNiJo6rU5TA%3D%3D&_opnslfp=1&prvtof=0GDHZG3XcPcjY3n5xESLWZVd1ttVhjrDFv25lyFBJ1Y%3D&&gtnp=0&gtpp=0&kt=362&&kbc=sage+wisdom&ki=8572911&ktd=256&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Salvia Divinorum');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Salvia Divinorum" id="dk2" name="dk2" >Salvia Divinorum</a></li>
+                      <li><a href="http://sagewisdom.org/Top_10_Wall_Paint_Colors.cfm?fp=W9prVvncWSgRx7QVJhQXz9gkfvqudV3Y%2BhH4w0d0gXYehdb%2FmRL6AmiDv1vmeqEgQYF54KJ4JeSRZe8oUVegHE8%2Ffq4I1epAk7YCGRHqmQ37PidPN8buQ5SSdxSHe9iSzqr7QuA49lcNR3IdAJXo0CFl3vA2sxd0AVE1zRRKukBCt9ELXgY6j891GooCbFlQ7RXCZ2daoqg08zAVwZOhQgqHqxZbrlNu3PGgt34rjwUA30IIgfdO4EfFcUhGd1q5Irs%2Fy7EGwyVi1S9uY7LQj0NiETt42Z0%2B5tVNVBsx8RVncpnXdlyBMUPQ3KiBaARW&yep=dE9UcxuUQHvFgt1Q1N7qqo35ey9icCvoEr%2FnVUbUzXjXRrE2WFrOqJzZ7L114sXreKiuWLan0qBjgFO1Lmz6sZ9maQV4yJNEaOhEVev1K7CrxkW352jRSEo7gDuroxFnGvwWsqXSzjjOdcGiMRB6njehFXFOAgjo2%2F4gRRoude1YqOE8hPMOXkqws%2B93aI0NLT4Chvn%2BF7PeEjaG%2FuoIDfInw6tSKtoWSVsQj2bLeBb9qFD3lk07AQbJn%2BkxZCliDoJlFU17yM0C9GQMZnUQN7t0QrPMwuhyCbB%2FU3ZpocC%2FF2rBG2COrt%2BTi1m9skRFkYY3ws5U201QY0JLnal1eMLgJM6ZGZoIwVuJp9qiwdEZX%2B5c7CbYYEvE83IIlu%2BhreMQSui1kVSZk6n%2FsjJaby%2Bj7m5jLKrpcgW5pikTmqyMvkZ40riFLUAX%2B9YvyppVKZl4zLSdletqNdE8mwV4FsA4ZKmiDh2SP0uqUu0gpy8HRH%2FmTbZwomoEDhnYhTsJ2OIIZ0MIQZjjcjvmc9ejI%2BUYptgFK78DX%2FFRKAhyrb%2Feb60jQ8A28macKWwDs88Nx5ou7cjekjZxMnnOvn39J4I0g2sqgy%2Bm16Qo5Gokr9S53wX2kWH6BudUXFaDe%2BRJxxDcwPJgLDSSPkokGp%2FDje%2FVgg8cjv68pxk9Y3PcTuBGivu6kosirOdxhVk1%2Fx5icumECePOroEVM4ItlcHTHyPYdV6i3D%2B8rJrF2StUp5eKIxLQdcz4Jbfd%2BY5YDt4O4pnS1atoNTeXW%2BG09CXyCfslzhDLpzLcSLqtLDrmWbAbDL5AWRJfeMjg3eij48Nq4GLANtN3Anut%2FTz8uQ27%2BPZa1EC81d8STXQgyng1bdlhgarOnYBpq4K1UWn%2BbG1kw0i9w0rQVtm5zrK90N6Q6sBBLSkQVyNmD88mVR2K8F%2BoGjp6OMYSziJ%2FWfrOFRR6v2wk%2Bx1Nx0nmujVXlB1jyf3LC4DvSDUH16nxrV7wwIXq2Zfqe9II%2F8EgImua0%2Bysl7052zW1zXVFtytgDS23q%2B40u3q2eO5QhI4KacsLXcU%2F6WvHt0nCh5J5oazz9dNt5qVUvb0l43qKNWgmAm0bFGiqghXZuIN%2Fn%2B0GlDeIjyXOaMVjKArMhMKOqXdU6t4UI6IJMuAb8dKz08hEpVF08brDWQCEilSlqhU1P%2FgWvD7uC5r7tST2bbwLosl6gytUfsrYx9WD38HxtVxFBEmSPn%2FSRg1OXF9cJSgasgpNtXUyXWP5eTnAKaCAU4uHXbo4ta1%2B8gWtRuVNCmOqhT7AomnJqP9iFkHpA4uYi9gwflqi5PGNu%2BBKsJnj6CVdRgyWivE7%2BOD11jsbk9DzwvAmEpQRF%2FS3xLTq9aKQd5QLVsWwsLII4AuZXs48fboM0WwJ9X4bxuCnTS96YmnzLYPzPpJTlwOrarpjGn%2BB%2B2qSBuDZtcAkVfvVtLNyFsZvB5243x2Jhgge5cQccXoqQejIq25NJp7%2BgbHll0wJRKEhqsGyXInDax7m0Ni%2Ff%2F6%2BGlydkoldMRnqQazPx5pVTr5cZSmcAuqqE6SVDVdJcJBYwLSJPmiVRddcmSzIiCZhLnPSnOncZY147wlFqPnJzA%2BeFxfdVr3%2Bu%2FApcj6%2BVJaYyZKscQeOYfbZZtJAMKQpXJZvFvr8PCgckIP6La91K7Yvik4jnidZi0Sh%2FUd6nbtZVaE%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=k9JNDvFrT0pTNiJo6rU5TA%3D%3D&_opnslfp=1&prvtof=0GDHZG3XcPcjY3n5xESLWZVd1ttVhjrDFv25lyFBJ1Y%3D&&gtnp=0&gtpp=0&kt=320&&kbc=101318&ki=324658660&ktd=565148976808192&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Top 10 Wall Paint Colors');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Top 10 Wall Paint Colors" id="dk3" name="dk3" >Top 10 Wall Paint Colors</a></li>
+                      <li><a href="http://sagewisdom.org/Kratom_Extract.cfm?fp=W9prVvncWSgRx7QVJhQXz9gkfvqudV3Y%2BhH4w0d0gXYehdb%2FmRL6AmiDv1vmeqEgQYF54KJ4JeSRZe8oUVegHE8%2Ffq4I1epAk7YCGRHqmQ37PidPN8buQ5SSdxSHe9iSzqr7QuA49lcNR3IdAJXo0CFl3vA2sxd0AVE1zRRKukBCt9ELXgY6j891GooCbFlQ7RXCZ2daoqg08zAVwZOhQgqHqxZbrlNu3PGgt34rjwUA30IIgfdO4EfFcUhGd1q5Irs%2Fy7EGwyVi1S9uY7LQj0NiETt42Z0%2B5tVNVBsx8RVncpnXdlyBMUPQ3KiBaARW&yep=dE9UcxuUQHvFgt1Q1N7qqo35ey9icCvoEr%2FnVUbUzXjXRrE2WFrOqJzZ7L114sXreKiuWLan0qBjgFO1Lmz6sZ9maQV4yJNEaOhEVev1K7CrxkW352jRSEo7gDuroxFnGvwWsqXSzjjOdcGiMRB6njehFXFOAgjo2%2F4gRRoude1YqOE8hPMOXkqws%2B93aI0NLT4Chvn%2BF7PeEjaG%2FuoIDfInw6tSKtoWSVsQj2bLeBb9qFD3lk07AQbJn%2BkxZCliDoJlFU17yM0C9GQMZnUQN7t0QrPMwuhyCbB%2FU3ZpocC%2FF2rBG2COrt%2BTi1m9skRFkYY3ws5U201QY0JLnal1eMLgJM6ZGZoIwVuJp9qiwdEZX%2B5c7CbYYEvE83IIlu%2BhreMQSui1kVSZk6n%2FsjJaby%2Bj7m5jLKrpcgW5pikTmqyMvkZ40riFLUAX%2B9YvyppVKZl4zLSdletqNdE8mwV4FsA4ZKmiDh2SP0uqUu0gpy8HRH%2FmTbZwomoEDhnYhTsJ2OIIZ0MIQZjjcjvmc9ejI%2BUYptgFK78DX%2FFRKAhyrb%2Feb60jQ8A28macKWwDs88Nx5ou7cjekjZxMnnOvn39J4I0g2sqgy%2Bm16Qo5Gokr9S53wX2kWH6BudUXFaDe%2BRJxxDcwPJgLDSSPkokGp%2FDje%2FVgg8cjv68pxk9Y3PcTuBGivu6kosirOdxhVk1%2Fx5icumECePOroEVM4ItlcHTHyPYdV6i3D%2B8rJrF2StUp5eKIxLQdcz4Jbfd%2BY5YDt4O4pnS1atoNTeXW%2BG09CXyCfslzhDLpzLcSLqtLDrmWbAbDL5AWRJfeMjg3eij48Nq4GLANtN3Anut%2FTz8uQ27%2BPZa1EC81d8STXQgyng1bdlhgarOnYBpq4K1UWn%2BbG1kw0i9w0rQVtm5zrK90N6Q6sBBLSkQVyNmD88mVR2K8F%2BoGjp6OMYSziJ%2FWfrOFRR6v2wk%2Bx1Nx0nmujVXlB1jyf3LC4DvSDUH16nxrV7wwIXq2Zfqe9II%2F8EgImua0%2Bysl7052zW1zXVFtytgDS23q%2B40u3q2eO5QhI4KacsLXcU%2F6WvHt0nCh5J5oazz9dNt5qVUvb0l43qKNWgmAm0bFGiqghXZuIN%2Fn%2B0GlDeIjyXOaMVjKArMhMKOqXdU6t4UI6IJMuAb8dKz08hEpVF08brDWQCEilSlqhU1P%2FgWvD7uC5r7tST2bbwLosl6gytUfsrYx9WD38HxtVxFBEmSPn%2FSRg1OXF9cJSgasgpNtXUyXWP5eTnAKaCAU4uHXbo4ta1%2B8gWtRuVNCmOqhT7AomnJqP9iFkHpA4uYi9gwflqi5PGNu%2BBKsJnj6CVdRgyWivE7%2BOD11jsbk9DzwvAmEpQRF%2FS3xLTq9aKQd5QLVsWwsLII4AuZXs48fboM0WwJ9X4bxuCnTS96YmnzLYPzPpJTlwOrarpjGn%2BB%2B2qSBuDZtcAkVfvVtLNyFsZvB5243x2Jhgge5cQccXoqQejIq25NJp7%2BgbHll0wJRKEhqsGyXInDax7m0Ni%2Ff%2F6%2BGlydkoldMRnqQazPx5pVTr5cZSmcAuqqE6SVDVdJcJBYwLSJPmiVRddcmSzIiCZhLnPSnOncZY147wlFqPnJzA%2BeFxfdVr3%2Bu%2FApcj6%2BVJaYyZKscQeOYfbZZtJAMKQpXJZvFvr8PCgckIP6La91K7Yvik4jnidZi0Sh%2FUd6nbtZVaE%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=k9JNDvFrT0pTNiJo6rU5TA%3D%3D&_opnslfp=1&prvtof=0GDHZG3XcPcjY3n5xESLWZVd1ttVhjrDFv25lyFBJ1Y%3D&&gtnp=0&gtpp=0&kt=251&&kbc=3920&ki=16747276&ktd=256&kld=1061&kp=4" target="_top" onmouseover="changeStatus('Kratom Extract');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Kratom Extract" id="dk4" name="dk4" >Kratom Extract</a></li>
+                      <li class="last"><a href="http://sagewisdom.org/Medicinal_Seeds.cfm?fp=W9prVvncWSgRx7QVJhQXz9gkfvqudV3Y%2BhH4w0d0gXYehdb%2FmRL6AmiDv1vmeqEgQYF54KJ4JeSRZe8oUVegHE8%2Ffq4I1epAk7YCGRHqmQ37PidPN8buQ5SSdxSHe9iSzqr7QuA49lcNR3IdAJXo0CFl3vA2sxd0AVE1zRRKukBCt9ELXgY6j891GooCbFlQ7RXCZ2daoqg08zAVwZOhQgqHqxZbrlNu3PGgt34rjwUA30IIgfdO4EfFcUhGd1q5Irs%2Fy7EGwyVi1S9uY7LQj0NiETt42Z0%2B5tVNVBsx8RVncpnXdlyBMUPQ3KiBaARW&yep=dE9UcxuUQHvFgt1Q1N7qqo35ey9icCvoEr%2FnVUbUzXjXRrE2WFrOqJzZ7L114sXreKiuWLan0qBjgFO1Lmz6sZ9maQV4yJNEaOhEVev1K7CrxkW352jRSEo7gDuroxFnGvwWsqXSzjjOdcGiMRB6njehFXFOAgjo2%2F4gRRoude1YqOE8hPMOXkqws%2B93aI0NLT4Chvn%2BF7PeEjaG%2FuoIDfInw6tSKtoWSVsQj2bLeBb9qFD3lk07AQbJn%2BkxZCliDoJlFU17yM0C9GQMZnUQN7t0QrPMwuhyCbB%2FU3ZpocC%2FF2rBG2COrt%2BTi1m9skRFkYY3ws5U201QY0JLnal1eMLgJM6ZGZoIwVuJp9qiwdEZX%2B5c7CbYYEvE83IIlu%2BhreMQSui1kVSZk6n%2FsjJaby%2Bj7m5jLKrpcgW5pikTmqyMvkZ40riFLUAX%2B9YvyppVKZl4zLSdletqNdE8mwV4FsA4ZKmiDh2SP0uqUu0gpy8HRH%2FmTbZwomoEDhnYhTsJ2OIIZ0MIQZjjcjvmc9ejI%2BUYptgFK78DX%2FFRKAhyrb%2Feb60jQ8A28macKWwDs88Nx5ou7cjekjZxMnnOvn39J4I0g2sqgy%2Bm16Qo5Gokr9S53wX2kWH6BudUXFaDe%2BRJxxDcwPJgLDSSPkokGp%2FDje%2FVgg8cjv68pxk9Y3PcTuBGivu6kosirOdxhVk1%2Fx5icumECePOroEVM4ItlcHTHyPYdV6i3D%2B8rJrF2StUp5eKIxLQdcz4Jbfd%2BY5YDt4O4pnS1atoNTeXW%2BG09CXyCfslzhDLpzLcSLqtLDrmWbAbDL5AWRJfeMjg3eij48Nq4GLANtN3Anut%2FTz8uQ27%2BPZa1EC81d8STXQgyng1bdlhgarOnYBpq4K1UWn%2BbG1kw0i9w0rQVtm5zrK90N6Q6sBBLSkQVyNmD88mVR2K8F%2BoGjp6OMYSziJ%2FWfrOFRR6v2wk%2Bx1Nx0nmujVXlB1jyf3LC4DvSDUH16nxrV7wwIXq2Zfqe9II%2F8EgImua0%2Bysl7052zW1zXVFtytgDS23q%2B40u3q2eO5QhI4KacsLXcU%2F6WvHt0nCh5J5oazz9dNt5qVUvb0l43qKNWgmAm0bFGiqghXZuIN%2Fn%2B0GlDeIjyXOaMVjKArMhMKOqXdU6t4UI6IJMuAb8dKz08hEpVF08brDWQCEilSlqhU1P%2FgWvD7uC5r7tST2bbwLosl6gytUfsrYx9WD38HxtVxFBEmSPn%2FSRg1OXF9cJSgasgpNtXUyXWP5eTnAKaCAU4uHXbo4ta1%2B8gWtRuVNCmOqhT7AomnJqP9iFkHpA4uYi9gwflqi5PGNu%2BBKsJnj6CVdRgyWivE7%2BOD11jsbk9DzwvAmEpQRF%2FS3xLTq9aKQd5QLVsWwsLII4AuZXs48fboM0WwJ9X4bxuCnTS96YmnzLYPzPpJTlwOrarpjGn%2BB%2B2qSBuDZtcAkVfvVtLNyFsZvB5243x2Jhgge5cQccXoqQejIq25NJp7%2BgbHll0wJRKEhqsGyXInDax7m0Ni%2Ff%2F6%2BGlydkoldMRnqQazPx5pVTr5cZSmcAuqqE6SVDVdJcJBYwLSJPmiVRddcmSzIiCZhLnPSnOncZY147wlFqPnJzA%2BeFxfdVr3%2Bu%2FApcj6%2BVJaYyZKscQeOYfbZZtJAMKQpXJZvFvr8PCgckIP6La91K7Yvik4jnidZi0Sh%2FUd6nbtZVaE%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=k9JNDvFrT0pTNiJo6rU5TA%3D%3D&_opnslfp=1&prvtof=0GDHZG3XcPcjY3n5xESLWZVd1ttVhjrDFv25lyFBJ1Y%3D&&gtnp=0&gtpp=0&kt=251&&kbc=3920&ki=18863990&ktd=256&kld=1061&kp=5" target="_top" onmouseover="changeStatus('Medicinal Seeds');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Medicinal Seeds" id="dk5" name="dk5" >Medicinal Seeds</a></li>
+                    </ul>
+            </div>
+            <div class="search-form clearfix">
+                <form id="searchform1"   name="searchform1"  action="http://sagewisdom.org/display.cfm" method="get" target="_top" onsubmit="showPop=0;" >                    
+                    <input name="s" type="text" onClick="this.value='';"  class="srchTxt" />
+                    <input type="submit" class="srchBtn" value="" />
+                <input type="hidden" name="gsp" value="d3ZidHFreTdiKzNGTW1YeFB0UVFpRFhIMUlib1FZYkZxS01JU1Bqck5ySmRwcGx5eCt3dm1ObHZKVHNaVEVQYTY4VkNtN1c0L2hhUUxRMUtYV25vUTJsZnRCL3dYQVcrL0p3QjVoWXlPMndUOG9hVkczTGhtSW5UeGxVOXRndFJ4clB1MW8yMmpFUmNGaUJNLzNWa0Rlem95RzhwMTdpai9qTnZwdkhMQ0plQVR0MXNLaWxYZTMwMkQreHVBeDdSUUhzYndVa29OeEhsMjkvZ1ZJWlNGMTMrVTFOcEZjejVKSW5TZnN1RWd5TWNxOEdnQkVuQnp1YWFzV3RxelBoQ1Y4dk1MTXhTdnh6K3hGdnFZRVc3L3F0ZThYVVkxZk0wS1hheDF1dzNtdjhIQ1hFUFpMUmpqR25zb2gzaWFFdFJWQkViNUdiM0lxNDFlMkR1U1dWaG1GUzhORXRwM2Q1S0xPYmhHU05MVEtZVEYyVEpXZkl2OUo0QXJxR21IUkRoODZrU2J1QjlobE5rM1JLN1ZQMjhnMG9Icjl0ZlArck5PMC91dXdUczJxMFl4anNIb0JuYy8weW9Ia09LQS8wVDRZTUFsbWk5ZkFEa2hQSUZyL0Rza3ZXUWNoeU5vYkhRdGtXTFJOSnkwTlM0Nzd6Z0lBSnphUzFhRkNjODU1R1VsbkdqY09ZbWhxMDZRN2w3Mlk3T010UDVhM0s5MDJZTEttRVg4dUNxUkhXVkZrWUY4UVNJVkc0L2YrM2ZrWFIrdEVUL1FLaXVEWndxcGtha2tYMXVHS0IyNm1KclU2T1Z6NkRJa2EvWERjMjNhejRGMlB2MlhGVnZGTzNrUEtJNkY1djU3Vlg1VUdjdGJKSmYyUTRoUmo2SFlUdlVoSWkwdVM4bG85QXovWDN1eFZZZUFlMW55WERkeWpaN2hvRFVJV281WGJzZ29qd1lCa2w1cGJJNUcxY1ZMay9tcm80UVlYaFh0N05hejN3ODc2MGtUaW5SazJVUkh3dWxybzNvMncxUnBrUFhCdGdqNGgvaytMZFNxM0g1aENLN0VMOFZBK3R1REtuR0IzdHlLT1laMndNeFIxamJ4Vk1ubnl3ckRCUkZTV29jWmsvYWlKNFJFL0tQZEhvb2k3c2JjaDVMamduU3BuREpWZ1pHZk4xWUp2OThoWm5mRkFtU09HblgxVGNFdlBJWUlJemQvUVFBU0lSSGhDSlUxcFdvcUNQMnZPWGVEVzExRCsySzd1aUl1S2F4TGFhRXhEOGRZU2NRWXZCRXVBQXd6TUxVVlE5akg1Z2l4eVJjOEYzbzRPQzlvaitJM0FNNUZnY3poMWVPZURDNDFPaWtwMGZDTGt5WXlQUDVCYjhaSG4yOEtnZWlCQWFTQ1phUm5SNVVhNVkzdmVoMUhMeEJaRkt5OVgwVlRPVEJhbmJGWnQ4M2JZVExFb0pTSGFDTnhJT2d1RU1DQlFGOGp6VEJNRmZRT3A1SHpRRkplekFMN2VLTHBMcHRubStDaDlLOE0vNlFJek9JVjRwUjBJeVQzTnE1ZkE1eThITFFmZDl4ZjExd0ZFNTl2Qy9YTyt3KzgxbTArZ3VxOEhUYzJCZjQ3bHB3a2tIQUFxSnRUZWpNMWQxdHR3VmVDOGZBOUdLbzdDTGt0aXBvWXZORFcra3MvdERUVk9Pb0NDajRjcGxCSytZNGRnYlVjWkUwSW56cHcvdTBNekp1eFAwdTZQYW5QTzJ0RnowNDhVQ0o2RTNIajdMTVkwM1M0Wi85QUtvMWI2ZWVEWWkzT04wNWNPWjVRTkxyd3o2ZG4rVkhBcFJRR3k5MTBWcVBIZjJHRFBXbU1aaUc2WUhNL0xrN2UzUVhreHUvK3lMTzMvZ09ibEJ5Q3pkOUNEbEtUcWVxK2U0RzE2YVF6T25tQTZFYS9EL08yWVR6bzdGclF4c2lTbXVXSUQ0eHdmNmdQWTdIRUJRdUt3aWJMSEt0dzIybEROMkVqMTdENGNnTXZheEoyNTNVV0prd1lVZW4yREZOb0pNQ0o2UGxLT2hobC80aEUxUjdRN2JON09ldXZKQU1Sc2JDWmk5QkJrRXRhNGRaZUJJdnc2OUtYbUhibjgxWU55QkhjV3Z2U1U3ejRZSStLNVVYcXNIQWgxNCtiVmFPVGErUm9Kc2ZydnYwYjZUOUQ1ZUJickgvMW5YWHdrQjRmRXdlakFkWmhTYnorSDlBWWRCQ0I4dlc5OUlZNDk5K0VwNldRbWQxc3AzZG1TTU84VEdycDRjMUZKY3RvQTV0aHUxL2RYTGg2UVdoYmNrUFVobnN3eEpERDRvWnFHWC9QY0RKTkYzMGRBWmFGalI1QlFhMklGMnluOVhnSHIyeTF4Zm83Rm5rZlM2c2hWZm9tQVBQQ2JmdFZ2ajRFMHZ3Nkp5TDlOaEtzREROWHRlenJBV3lvaFFoYWVFUWE4a2V2bWhTNDRtMTJWZlErK2tzU0UrRjUrM1VsWnRCbUJWdmRTY0ZBaWZOOFVEQ3E0azAzTnowQlV0TUNRRjJaamZ4TGZjQU5GN0tncnBvZmQyaXFjUFNTc0t2R2NoWENEQUxqcHlSTUtMUUpzZFZvRDdkNkhoSUtuZTBwbW5SR29EZ0src1hIcjdHTHMyblBEbHFteUtVVVFvb2tLTTBYMHlxYjFOY1ZQMzExVmU1UkJSSGxoaElaSTVpRTFza1ppS0Jyem9kY0hqcWNTbFZGZWVDQVlOdmFMMnp3MEE2UmJnNitnVEJPTWhSYWFtdUk4VUdWMVhxY3ZZV3pLNm1JaEhvN2d1Q3BiRXFkU3pVWnBIOVdXeStqM1Z4WGpBWkdEbUJ3a2Z0c3VmMjBFL1Q2dS94NlA0czJiRjNhdENEUWdGMUk5RUhiZzJHZVdkTXRRSk0rZzRvMHErWExGNTU1UXBxVnNpeUJWMVBJL2dRRE1EdkJaM0t6WTZ6TitzTlNKbmpGb29UbFdTL0syZGhDaU5rV0JJWEc3eWYrQnE3S0lwTEpCNmFqZjRCc2VwRThoYkhaMjdpOUpKckQvWCs0Tmd0NFdkYi94WDRJNFB4Y0lXSVVEd3IzZHR2VWJ2TXF4OW9ocnQ1T3lPYXFLN2QxdjNsUDdkTU5SVXdxUGJwczVZVVNSQTlRbWtCRkkvOEVleis5Wm1QdDM5MUlvWFhDcDB4VDZSN2JFa0daRlh2MklNODk5ZjN0N1RWRmZIRTRUbDFJanBnOG42NmcydVBXV2xrTFR2R1VSd2RUWlRsSGl6OTY5TEdPWWRVcXFjOVJvcjBFUHBnWGsyUGwvRWVhNnJlSDlMRkM3UWptSEdYVW40ZGFNMklhRitvWituUDQ0RkR4alBvanBxMFVPUVJ2N2J0bkJhOHl6ZDVacVdWKzZuTUtKa3FneGFCbndkVlBCaGo5eGJSQm1YSVlKVEliN0xvOHpsQ2tDVDB2MkVmM0VNYWNWaVVyR1Z1NVp1ZGUrOXVlbWVXZ2hXTGRoSmVXU1c5WWJDOCtSblFFSVo0M0kzbnpKU2F5OGFCdUVRMlZjWXNxUTI3Qm1iS2xyMkNmK0NOMCtKOFNPZkUzZC9xVGRwSHR4eDB2RjNIaWdyVzVoSzNabnVKOGxTWE5SSGRpSjdaMC8xU2hiVFNrbXhQQUw5OVZCbkN5MnlTTjNTcUN5UjZna0hUZ04yRDFxSDhJTWlsc3gwU0d2YkkwaDlyWmErQXhraXZHNDIzd2N2V2p5UkJQOW5uclNEZzg4YkZxWnQ5eS91OW82QTFCdHYwdUU0eVAzWC9ubFlielErL2RGZzhBMEJrTmR4YTMrSzRBYkEzeUVtS2czbXhYMUg5SFllRVo2dFBoc0FiTWszSFNvU2ZEMi9yK25wZ0NWVHRWL1N1NXR4MUlRT2hpQU0xYnB2OGZxQ21nYS9FM01ZODJBWWt4RnQ1Q3FpVkJpWWhjSUMvdXVtbXhLeWc2S0hwOHZFbVg2RS85R08yL212OHJ5cjA4NnVEenBZb29uZkY3S05tM20zbXBGV09jYUlNd3JwYkJ3QVFvN3M3aXRKU0xndmNvYXVlb1ZKdGpXMEJWS3NMeWFTMW1hWjQzYU9iOXFFMVE5RnpUbmVjczZ6WmxUVWh2UT09" /></form>          
+            </div>
+            
+    </div>
+    <div class="footer">
+      <div class="main-container footer-container" id="main"> 
+      <ul class="privacy clearfix">
+          <a href="" onclick=" window.open('http://sagewisdom.org/__media__/js/trademark.php?d=sagewisdom.org&type=ns', 'netsoltrademark', 'directories=0,menubar=0,height=165,width=900');return false;">Trademark Free Notice</a>  
+          <li><a href="//customersupport.networksolutions.com/article.php?id=306" target="_blank">Review our Privacy Policy</a></li>
+          <li><a href="//www.networksolutions.com/legal/static-service-agreement.jsp" target="_blank">Service Agreement</a></li>
+          <li><a href="//www.networksolutions.com/legal/legal-notice.jsp" target="_blank">Legal Notice</a></li>
+      </ul>
+      </div>
+    </div>
+    <!-- <ul class="privacy clearfix">
+                <li><a href="#" target="_blank">Privacy Policy</a></li>
+                            </ul> -->
+            
+
+<script type="text/javascript" language="javascript">
+try{handleABPDetect();}catch(err){}
+</script>
+<div style='display:none;visibility:hidden;'></div><script type="text/javascript" language="javascript">
+(function() {var srchForm = document.getElementById("searchform1"); if(srchForm) { var _e = document.createElement("input");_e.type='hidden'; _e.name = '_opnslfp'; _e.id='_opnslfp'; _e.value=1;srchForm.appendChild(_e); }})();
+</script>
+<script type="text/javascript">if(setBrowserDetails) setBrowserDetails();</script><style>
+.footlinks-custom-link-wrap{padding:20px 10px;} .footlinks-custom-link{color:#2c2e2d;font-family:Arial,sans-serif;font-size:12px;width:220px;margin:20px auto;padding:7px 10px;background-color:#fff;border-radius:20px;text-align:center} .footlinks-custom-link a{color:#2c2e2d;font-family:Arial,sans-serif;text-decoration:none;font-size:12px} .footlinks-custom-link a:hover{text-decoration:underline} .footlinks-custom-link span{padding:0 4px;display:inline-block} </style>
+<div class="footlinks-custom-link-wrap clearfix"> <div class="footlinks-custom-link"> <a href="//sagewisdom.org/sk-privacy.php" target="_blank">Privacy Policy</a> </div> </div><script language="javascript" type="text/javascript" > var __pp = [];  atevt();  </script> </body>
+</html>
